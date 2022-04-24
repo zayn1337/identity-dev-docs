@@ -1,5 +1,5 @@
 ---
-title: Welcome to the Login.gov developer guide
+title: Welcome to the Login.gov developer guide!
 lead: >
   This contains everything you’ll need as a federal government agency to integrate and deploy your application with <a href="https://login.gov">Login.gov</a>.
 permalink: /
@@ -17,7 +17,7 @@ layout: home
 
 {% include zendesk-alert.html %}
 
-# Get started...
+# Get started...!
 
 - [Understand our flow]({{ site.baseurl }}/overview/).
 - Determine your application needs, like the level of proofing and [user attributes]({{ site.baseurl }}/attributes/) that will be requested.
